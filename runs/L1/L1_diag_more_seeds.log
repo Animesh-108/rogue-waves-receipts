@@ -1,0 +1,5 @@
+k=1.5: count 459,986 expected 466,038 ratio 0.987  seed-based sd 1819  z -3.33
+k=1.8: count 63,118 expected 64,346 ratio 0.981  seed-based sd 646  z -1.90
+k=2.0: count 13,772 expected 14,073 ratio 0.979  seed-based sd 286  z -1.05
+k=2.2: count 2,549 expected 2,623 ratio 0.972  seed-based sd 119  z -0.62
+41,951,408 waves, 126 s

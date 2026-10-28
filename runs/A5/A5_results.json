@@ -1,0 +1,57 @@
+{
+ "missing": [],
+ "label": "EXPLORATORY (A5): decided after the L3 result",
+ "hs_ge_5": {
+  "waves": 14149824,
+  "monsters": 1230,
+  "rate": 8.692687626361996e-05,
+  "one_in": 11504,
+  "wilson": [
+   8.22029151807391e-05,
+   9.192228461543024e-05
+  ],
+  "bootstrap": [
+   7.912390138948055e-05,
+   9.14316805485373e-05
+  ],
+  "deciding": "station bootstrap",
+  "stations_with_big_seas": 74,
+  "stations_ge_1e4": 46,
+  "dice_one_in": 2981,
+  "ratio_to_dice": 0.25912536608662595,
+  "call_dice": "below",
+  "frac_below_dice": 1.0,
+  "fair_line": 6.058315938867365e-05,
+  "fair_one_in": 16506,
+  "ratio_to_fair": 1.4348356398176125,
+  "call_fair": "above",
+  "frac_below_fair": 0.2608695652173913,
+  "tp_band_share": [
+   0.0,
+   0.011456114224459612,
+   0.19697700833593407,
+   0.3142376894581869,
+   0.2688287854322428,
+   0.2085004025491766
+  ],
+  "largest": [
+   [
+    3.6327,
+    "fowd_cdip_036p1_filtered.nc"
+   ],
+   [
+    2.9875,
+    "fowd_cdip_166p1_filtered.nc"
+   ],
+   [
+    2.9202,
+    "fowd_cdip_162p1_filtered.nc"
+   ]
+  ]
+ },
+ "hs_ge_8": {
+  "waves": 424584,
+  "monsters": 30,
+  "call": "too few to call (< 100 monsters)"
+ }
+}

@@ -1,0 +1,42 @@
+L1.1 narrow-band Gaussian, dt = Tp/40
+  L1.1 seed 0: 419,573 waves
+  L1.1 seed 1: 419,541 waves
+  L1.1 seed 2: 419,428 waves
+  L1.1 seed 3: 419,555 waves
+  L1.1 seed 4: 419,497 waves
+  L1.1 seed 5: 419,511 waves
+  L1.1 seed 6: 419,484 waves
+  L1.1 seed 7: 419,510 waves
+  L1.1 seed 8: 419,545 waves
+  L1.1 seed 9: 419,496 waves
+  -> {'enough_waves': (4195140, True), 'k1_0': (np.float64(0.9981), np.True_), 'k1_5': (np.float64(0.9823), np.True_), 'k2_0': (1208, False)}
+L1.1 diagnostic: the same sea sampled at 1.28 Hz (CDIP's rate)
+  L1.1-diag-1.28Hz seed 0: 1,311,146 waves
+  L1.1-diag-1.28Hz seed 1: 1,311,031 waves
+  L1.1-diag-1.28Hz seed 2: 1,310,974 waves
+  L1.1-diag-1.28Hz seed 3: 1,310,893 waves
+  L1.1-diag-1.28Hz seed 4: 1,310,938 waves
+  L1.1-diag-1.28Hz seed 5: 1,311,062 waves
+  L1.1-diag-1.28Hz seed 6: 1,311,093 waves
+  L1.1-diag-1.28Hz seed 7: 1,310,942 waves
+  L1.1-diag-1.28Hz seed 8: 1,311,200 waves
+  L1.1-diag-1.28Hz seed 9: 1,310,963 waves
+L1.2 JONSWAP gamma 3.3, dt = Tp/40
+  L1.2 seed 0: 536,796 waves
+  L1.2 seed 1: 536,692 waves
+  L1.2 seed 2: 536,441 waves
+  L1.2 seed 3: 536,475 waves
+  L1.2 seed 4: 536,632 waves
+  L1.2 seed 5: 536,682 waves
+  L1.2 seed 6: 537,083 waves
+  L1.2 seed 7: 536,974 waves
+  L1.2 seed 8: 536,580 waves
+  L1.2 seed 9: 536,387 waves
+  -> r = 0.752, P/PT at 1.5 = 1.0817, ok True
+L1.3a Peregrine breather
+  -> {'peak': 2.9999951633814534, 'at_t': 0.0, 'expected': 3.0, 'tol': 0.01, 'ok': True}
+L1.3b Benjamin-Feir growth at K = sqrt(2)
+  -> {'growth_rate': 0.999992838001818, 'expected': 1.0, 'tol': 0.05, 'ok': True}
+L1.3c 2D NLS energy conservation
+  -> {'rel_change': 1.7454926393156711e-12, 'tol': 0.001, 'ok': True}
+NOT ALL PASS -> D:\New folder (5)\rogue_waves\runs\L1\L1_results.json

@@ -1,0 +1,5 @@
+hs_ge_5: 1,230 monsters in 14,149,824 waves = 1 in 11,504 | interval (station bootstrap) 7.912e-05..9.143e-05 | 74 stations with such seas, 46 with >= 10^4 waves
+   dice line 1 in 2,981: ratio 0.259, 100 % of those stations below -> below
+   fair line 1 in 16,506: ratio 1.435, 26 % below -> above
+   largest H/Hs: [(3.6327, 'fowd_cdip_036p1_filtered.nc'), (2.9875, 'fowd_cdip_166p1_filtered.nc'), (2.9202, 'fowd_cdip_162p1_filtered.nc')]
+missing stations: []

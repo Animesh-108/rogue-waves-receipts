@@ -1,0 +1,24 @@
+{
+ "fine lambda/16": {
+  "peak": 2.99874,
+  "ok_peak": true,
+  "energy_drift": 5.728750807065808e-14,
+  "ok_energy": true,
+  "tau_in_tp": 14.15
+ },
+ "lambda/4 (A4 as first written)": {
+  "peak": 2.94051,
+  "ok_peak": false,
+  "energy_drift": 5.906386491005833e-14,
+  "ok_energy": true,
+  "tau_in_tp": 14.15
+ },
+ "duel grid lambda/8": {
+  "peak": 2.99828,
+  "ok_peak": true,
+  "energy_drift": 6.328271240363392e-14,
+  "ok_energy": true,
+  "tau_in_tp": 14.15
+ },
+ "when": "2026-10-17 15:29:15"
+}

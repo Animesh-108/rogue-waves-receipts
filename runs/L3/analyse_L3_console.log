@@ -1,0 +1,9 @@
+stations 152, waves 1,383,570,225 (valid 1,383,570,225, missing 0 = 0.000 %), 15.71 GB, records 1993-08-31 .. 2020-10-14
+L2: waves in ±10 % of 1.4 billion: True; share over 2 Hs 5.931e-05 in [3.33e-5, 1e-4]: True
+L3: over 2 Hs 82,058 of 1,383,570,225 = 5.931e-05 (1 in 16,861)
+    Wilson 5.890e-05..5.972e-05; station bootstrap 5.606e-05..6.231e-05; deciding: station bootstrap
+    dice line 3.355e-04 (1 in 2,981): ratio 0.177; big stations below 100.0 % of 93 -> CALL: below
+    fair line 5.994e-05 (1 in 16,684): ratio 0.990; big below (pooled fair) 62.4 %, (own mix) 62.4 % -> CALL: on
+    over 2.2: 11,849 = 8.564e-06 (dice 6.252e-05); crest > 1.25 Hs: 12,843 = 9.283e-06 (dice 3.727e-06); max H/Hs (3.6327, 'fowd_cdip_036p1_filtered.nc')
+    by band: [(6, 39734662, '3.05e-05', '4.84e-05'), (8, 280737264, '4.32e-05', '5.74e-05'), (10, 422764384, '5.53e-05', '6.13e-05'), (12, 319255982, '6.55e-05', '6.20e-05'), (14, 204592278, '7.36e-05', '6.12e-05'), (16, 116485655, '8.04e-05', '5.72e-05')]
+bet: pooled in 4e-5..1e-4: True; stations below dice: all 100.0 %, big 100.0 % (bet: >= 80 %)

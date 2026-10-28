@@ -1,0 +1,8 @@
+L1.1 re-test: {'k1.0': (0.9936, True), 'k1.5': (0.9932, True), 'k2.0': (0.9852, True)} 41,951,027 waves
+fair line Tp 6 s: 131,847,925 waves, P(H > 2 Hs) = 4.836e-05 (dice 3.355e-04, ratio 0.144)
+fair line Tp 8 s: 101,007,614 waves, P(H > 2 Hs) = 5.744e-05 (dice 3.355e-04, ratio 0.171)
+fair line Tp 10 s: 81,760,187 waves, P(H > 2 Hs) = 6.129e-05 (dice 3.355e-04, ratio 0.183)
+fair line Tp 12 s: 68,631,846 waves, P(H > 2 Hs) = 6.198e-05 (dice 3.355e-04, ratio 0.185)
+fair line Tp 14 s: 59,106,383 waves, P(H > 2 Hs) = 6.119e-05 (dice 3.355e-04, ratio 0.182)
+fair line Tp 16 s: 51,896,417 waves, P(H > 2 Hs) = 5.719e-05 (dice 3.355e-04, ratio 0.170)
+done -> D:\New folder (5)\rogue_waves\runs\L1\A2_results.json

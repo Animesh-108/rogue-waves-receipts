@@ -1,0 +1,11 @@
+    wave_height: stream failed (("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))); chunk-by-chunk
+  fowd_cdip_208p1_filtered.nc: attempt 1 failed: Cannot connect to host sid.erda.dk:443 ssl:default [getaddrinfo failed]
+    wave_height: stream failed (chunk 1: no zlib header); chunk-by-chunk
+    sea_state_30m_significant_wave_height_spectral: stream failed (chunk 1: no zlib header); chunk-by-chunk
+    wave_crest_height: stream failed (chunk 1: no zlib header); chunk-by-chunk
+    sea_state_30m_peak_wave_period: stream failed (chunk 1: no zlib header); chunk-by-chunk
+fowd_cdip_208p1_filtered.nc: 1,145,576 waves, missing 0, 0.0 MB in 170.1 s
+
+real	2m51.311s
+user	0m0.015s
+sys	0m0.015s
