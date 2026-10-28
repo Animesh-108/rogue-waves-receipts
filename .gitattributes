@@ -1,0 +1,4 @@
+# the frozen files must stay byte for byte, or their SHA-256 sums (runs/bet/SHA256SUMS.txt) no longer verify
+runs/bet/** -text
+visuals/manim/bet.py -text
+visuals/manim/bet_stamp.json -text
